@@ -1,1 +1,1 @@
-# Wordpress Theme - SAIWP
+# Wordpress Theme - saiwp
